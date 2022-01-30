@@ -1,0 +1,17 @@
+.error {
+    color: darkred;
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    /* background-image: url("http://www.myzakuro.com/wp-content/uploads/2014/08/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B32.jpg"); */
+}
+
+.btn {
+    border: none;
+}
+
+.btn-sm {
+    margin: 4px;
+}
