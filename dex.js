@@ -1,6 +1,6 @@
 // connect to Moralis server
-const serverUrl = "SECRET_SERVER";
-const appId = "SECRET_APP_ID";
+const serverUrl = "https://h1h7aqc0d64i.usemoralis.com:2053/server";
+const appId = "5HBURfspEGzkPf4iHwsmn3FxrL92JGnvTOhrv9B8";
 
 Moralis.start({ serverUrl, appId });
 
